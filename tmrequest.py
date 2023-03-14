@@ -81,4 +81,4 @@ if __name__ == '__main__':
             print('未获取级别')
         else:
             get_url(date_shudu, name_shudu)
-    input("任意键退出"）
+    input("任意键退出")
