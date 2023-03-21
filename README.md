@@ -1,2 +1,0 @@
-# study01
-python
