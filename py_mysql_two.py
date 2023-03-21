@@ -8,7 +8,7 @@ fake = Faker("zh_CN")
 class py_mysql_conn(object):
    def __init__(self):
       self.conn = pymysql.connect(
-         host='192.168.0.38',
+         host='192.168.0.47',
          port=3306,
          user='root',
          passwd='123456',
